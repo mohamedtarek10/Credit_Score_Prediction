@@ -30,7 +30,7 @@ Credit scoring is a crucial task in the financial industry to assess the creditw
 #
 Steps for Preparing the Data
 
-**The data preprocessing steps include:
+**The data preprocessing steps include:**
 
 1. Handling missing values using K-Nearest Neighbors (KNN) imputation.
 2. Encoding categorical variables using Label Encoding.
@@ -40,7 +40,7 @@ Steps for Preparing the Data
 6. Model Training
 7. Training Machine Learning Models
 
-** The notebook includes training various machine learning models, including:
+** The notebook includes training various machine learning models, including:**
 
 1. Random Forest Classifier
 2. Neural Network using Keras
@@ -49,7 +49,7 @@ The models are evaluated based on accuracy, and the best-performing model is sav
 ** Evaluation
 Evaluating Model Performance
 
-** The model evaluation includes:
+** The model evaluation includes:**
 
 1. Confusion matrix
 2. Accuracy score
