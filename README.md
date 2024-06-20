@@ -1,7 +1,5 @@
 # Credit_Score_Prediction
 
-# Credit Score Analysis
-
 This project involves analyzing credit score data using machine learning techniques. The analysis includes data preprocessing, feature engineering, and model training and evaluation. The notebook demonstrates the use of various Python libraries such as Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib, and Keras.
 
 ## Table of Contents
