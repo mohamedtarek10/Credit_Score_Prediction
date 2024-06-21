@@ -34,9 +34,8 @@ The data preprocessing steps include:
 The notebook includes training various machine learning models, including:
 
 - **Random Forest Classifier**
-- **Neural Network using Keras**
 
-The models are evaluated based on accuracy, and the best-performing model is saved in the `models/` directory.
+The models are evaluated based on the accuracy
 
 ## Evaluation
 
